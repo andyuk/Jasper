@@ -1,0 +1,7 @@
+{ "name" : "jasper"
+, "version" : "0.1"
+, "description" : "A simple HTML form builder and validator."
+, "author" : "Andrew Moist <andy@andyuk.net>"
+, "main" : "lib/jasper"
+, "engines" : { "node" : ">=0.1.90" }
+}
