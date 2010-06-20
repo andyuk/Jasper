@@ -1,4 +1,4 @@
 Jasper
-A simple Javascript form generator and validation library
+A simple and flexible Javascript HTML5 form generator and validation library
 
-This library is still very much work in progress.
+Jasper uses the HTML5 specification. Anyone familiar with HTML should find using this library very natural.
